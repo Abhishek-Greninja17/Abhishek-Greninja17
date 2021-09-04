@@ -1,5 +1,4 @@
-# <samp> **Hey Folks** </samp> <img src="assets/git.svg" width="35" alt="git">
-
+# <samp> **Hey Folks** :octocat:</samp> 
 <p align="left">
 <img src="assets/myAvatar.svg" width="200" height="200" alt="Avatar">
 <a href="https://youtu.be/DiPjyqO-jqU" target="_blank"><img src="assets/sprite-pokemon.gif" width="100" alt="ninja"></a>
