@@ -11,6 +11,8 @@
 <a href="https://www.instagram.com/abhi_pratima/" target="_blank"><img src="assets/ig.svg" width="50" alt="ig"></a>
 <a href="https://www.linkedin.com/in/abhishek-prasad-jinx17/" target="_blank"><img src="assets/ln.svg" width="50" alt="ln"></a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Greninja17)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
 
 
