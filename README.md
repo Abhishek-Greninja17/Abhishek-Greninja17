@@ -14,4 +14,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek-Greninja17's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Greninja17&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117"/></a>
 </p>
 
-
+- [x] <strong><samp>click on the Greninja to see something Awesome!!! </samp> </strong>
+- [x] <strong><samp>click on the Social media Icons to contact me! </samp> </strong>
+ 
