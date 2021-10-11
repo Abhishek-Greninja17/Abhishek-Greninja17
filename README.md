@@ -15,5 +15,5 @@
 </p>
 
 - [x] <strong><samp>click on the Greninja to see something Awesome!!! </samp> </strong>
-- [x] <strong><samp>click on the Social media Icons to contact me! </samp> </strong>
+- [x] <strong><samp>click on the social media Icons to connect with me! </samp> </strong>
  
