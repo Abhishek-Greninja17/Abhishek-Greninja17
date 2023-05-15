@@ -1,6 +1,6 @@
 # <samp> **Hey Folks :octocat:**</samp> 
 <p align="left">
-<img src="assets/myAvatar.svg" width="200" height="200" alt="Avatar">
+<!-- <img src="assets/myAvatar.svg" width="200" height="200" alt="Avatar"> -->
 <a href="https://youtu.be/DiPjyqO-jqU" target="_blank"><img src="assets/sprite-pokemon.gif" width="100" alt="ninja"></a>
 <samp> Greninja Here..</samp>
 <a href="https://www.facebook.com/abhishek.prasad.17/" target="_blank"><img src="assets/fb.svg" width="50" alt="fb"></a>
